@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.b5d22bca.css",
-    "main.js": "/static/js/main.023833d4.js",
-    "static/media/Chris_Johnson_Resume_2020.pdf": "/static/media/Chris_Johnson_Resume_2020.9fa55cb76f8e342bf7f1.pdf",
+    "main.js": "/static/js/main.5a42cbd8.js",
+    "static/media/Chris_Johnson_Resume_2024.pdf": "/static/media/Chris_Johnson_Resume_2024.8fe292bee7bdd09a62d7.pdf",
     "static/media/profile.jpg": "/static/media/profile.f2563cfcbc3a42cd283c.jpg",
     "index.html": "/index.html",
     "main.b5d22bca.css.map": "/static/css/main.b5d22bca.css.map",
-    "main.023833d4.js.map": "/static/js/main.023833d4.js.map"
+    "main.5a42cbd8.js.map": "/static/js/main.5a42cbd8.js.map"
   },
   "entrypoints": [
     "static/css/main.b5d22bca.css",
-    "static/js/main.023833d4.js"
+    "static/js/main.5a42cbd8.js"
   ]
 }
